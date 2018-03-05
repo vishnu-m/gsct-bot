@@ -1,0 +1,4 @@
+dateparser==0.7.0
+python-telegram-bot
+dataset
+
